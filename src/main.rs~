@@ -1,5 +1,5 @@
-#![no_std] // Não pode usar a biblioteca padrão mano
-#![no_main] // Tira todos os runtimes iniciais do rust
+#![no_std]
+#![no_main]
 
 use core::panic::PanicInfo;
 
